@@ -1,3 +1,3 @@
 # Materiais_Para_Estudos
-#  Todos os Materiais do Curso de Desenvolvimento Web
-# Atualização todos os dias 
+#  Materiais do Curso Técnico em Desenvolvimento de Sistemas
+Atualização todos os dias 
